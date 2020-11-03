@@ -27,7 +27,7 @@
     el = Μείνετε δεξιά.
     hi = दायीं ओर रहें
     hr = Držite desno.
-    sk = Uchovať napravo.
+    sk = Držte sa vpravo.
     sw = Kaa kuria.
     fa = به راست برانید.
     vi = Đi về phía phải.
@@ -159,7 +159,7 @@
     el = Βγείτε από την κυκλική διασταύρωση.
     hi = परिपथ से बाहर निकलें।
     hr = Napustite zaobilaznicu.
-    sk = Výjazd z kruhového objazdu.
+    sk = Opustite kruhový objazd.
     sw = Toka kwenye mzunguko wa barabara.
     fa = از میدان خارج شوید.
     vi = Ra khỏi vòng xoay.
@@ -192,7 +192,7 @@
     el = Μείνετε αριστερά.
     hi = बायीं ओर रहें
     hr = Držite lijevo.
-    sk = Uchovať naľavo.
+    sk = Držte sa vľavo.
     sw = Kaa kushoto.
     fa = به چپ برانید.
     vi = Đi về phía trái.
@@ -291,7 +291,7 @@
     el = Κάντε στροφή 180 μοιρών.
     hi = यू-टर्न लें।
     hr = Napravite poluzaokret.
-    sk = Otočte sa o stoosemdesiat stupňov.
+    sk = Otočte sa.
     sw = Geuka urudi ulikotoka.
     fa = دور بزنید.
     vi = Quay đầu.
@@ -456,7 +456,7 @@
     el = Σε πενήντα μέτρα
     hi = पचास मीटर में।
     hr = Za pedeset metara
-    sk = Po päťdesiatich metroch
+    sk = O päťdesiat metrov
     sw = Kabla ya mita hamsini
     fa =  در پنجاه متری
     vi = Trong năm mươi mét nữa
@@ -489,7 +489,7 @@
     el = Σε εκατό μέτρα
     hi = एक सौ मीटर में।
     hr = Za stotinu metara
-    sk = Po sto metroch
+    sk = O sto metrov
     sw = Kabla ya mita mia moja
     fa =  در صد متری
     vi = Trong một trăm mét nữa
@@ -522,7 +522,7 @@
     el = Σε διακόσια μέτρα
     hi = दो सौ मीटर में।
     hr = Za dvije stotine metara
-    sk = Po dvesto metroch
+    sk = O dvesto metrov
     sw = Kabla ya mita mia mbili
     fa =  در دویست و پنجاه متری
     vi = Trong hai trăm mét nữa
@@ -555,7 +555,7 @@
     el = Σε διακόσια πενήντα μέτρα
     hi = दो सौ पचास मीटर में।
     hr = Za dvije stotine i pedeset metara
-    sk = Po dvestopäťdesiatich metroch
+    sk = O dvestopäťdesiat metrov
     sw = Kabla ya mita mia mbili hamsini
     fa = در دوصد و پنجاه متر
     vi = Trong hai trăm năm mươi mét
@@ -588,7 +588,7 @@
     el = Σε τριακόσια μέτρα
     hi = तीन सौ मीटर में।
     hr = Za tri stotine metara
-    sk = Po tristo metroch
+    sk = O tristo metrov
     sw = Kabla ya mita mia tatu
     fa =  در سیصد متری
     vi = Trong ba trăm mét nữa
@@ -621,7 +621,7 @@
     el = Σε τετρακόσια μέτρα
     hi = चार सौ मीटर में।
     hr = Za četiri stotine metara
-    sk = Po štyristo metroch
+    sk = O štyristo metrov
     sw = Kabla ya mita mia nne
     fa =  در چهارصد متری
     vi = Trong bốn trăm mét nữa
@@ -654,7 +654,7 @@
     el = Σε πεντακόσια μέτρα
     hi = पांच सौ मीटर में।
     hr = Za pet stotina metara
-    sk = Po päťsto metroch
+    sk = O päťsto metrov
     sw = Kabla ya mita mia tano
     fa =  در پانصد متری
     vi = Trong năm trăm mét nữa
@@ -687,7 +687,7 @@
     el = Σε εξακόσια μέτρα
     hi = छह सौ मीटर में।
     hr = Za šest stotina metara
-    sk = Po šesťsto metroch
+    sk = O šesťsto metrov
     sw = Kabla ya mita mia sita
     fa =  در ششصد متری
     vi = Trong sáu trăm mét nữa
@@ -720,7 +720,7 @@
     el = Σε επτακόσια μέτρα
     hi = सात सौ मीटर में।
     hr = Za sedam stotina metara
-    sk = Po sedemsto metroch
+    sk = O sedemsto metrov
     sw = Kabla ya mita mia saba
     fa =  در هفتصد متری
     vi = Trong bảy trăm mét nữa
@@ -753,7 +753,7 @@
     el = Σε επτακόσια πενήντα μέτρα
     hi = सात सौ पचास मीटर में।
     hr = Za sedam stotina i pedeset metara
-    sk = Po sedemstopäťdesiatich metroch
+    sk = O sedemstopäťdesiat metrov
     sw = Kabla ya mita mia saba hamsini
     fa =  در هفتصد و پنجاه متری
     vi = Trong bảy trăm năm mươi mét nữa
@@ -786,7 +786,7 @@
     el = Σε οκτακόσια μέτρα
     hi = आठ सौ मीटर में।
     hr = Za osam stotina metara
-    sk = Po osemsto metroch
+    sk = O osemsto metrov
     sw = Kabla ya mita mia nane
     fa =  در هشتصد متری
     vi = Trong tám trăm mét nữa
@@ -819,7 +819,7 @@
     el = Σε εννιακόσια μέτρα
     hi = नौ सौ मीटर में।
     hr = Za devet stotina metara
-    sk = Po deväťsto metroch
+    sk = O deväťsto metrov
     sw = Kabla ya mita mia tisa
     fa =  در نهصد متری
     vi = Trong chín trăm mét nữa
