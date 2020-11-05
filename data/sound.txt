@@ -27,7 +27,7 @@
     el = Μείνετε δεξιά.
     hi = दायीं ओर रहें
     hr = Držite desno.
-    sk = Uchovať napravo.
+    sk = Držte sa vpravo.
     sw = Kaa kuria.
     fa = به راست برانید.
     vi = Đi về phía phải.
@@ -159,7 +159,7 @@
     el = Βγείτε από την κυκλική διασταύρωση.
     hi = परिपथ से बाहर निकलें।
     hr = Napustite zaobilaznicu.
-    sk = Výjazd z kruhového objazdu.
+    sk = Opustite kruhový objazd.
     sw = Toka kwenye mzunguko wa barabara.
     fa = از میدان خارج شوید.
     vi = Ra khỏi vòng xoay.
@@ -192,7 +192,7 @@
     el = Μείνετε αριστερά.
     hi = बायीं ओर रहें
     hr = Držite lijevo.
-    sk = Uchovať naľavo.
+    sk = Držte sa vľavo.
     sw = Kaa kushoto.
     fa = به چپ برانید.
     vi = Đi về phía trái.
@@ -291,7 +291,7 @@
     el = Κάντε στροφή 180 μοιρών.
     hi = यू-टर्न लें।
     hr = Napravite poluzaokret.
-    sk = Otočte sa o stoosemdesiat stupňov.
+    sk = Otočte sa.
     sw = Geuka urudi ulikotoka.
     fa = دور بزنید.
     vi = Quay đầu.
